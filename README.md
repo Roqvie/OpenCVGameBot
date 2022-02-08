@@ -4,11 +4,6 @@
 Simple bot that solves equations in Telegram game named '1+2' in @gamee Telegram bot.
 https://t.me/gamee
 
-## Demo
-
-![Example](https://raw.githubusercontent.com/Roqvie/OpenCVGameBot/master/demo/demo.gif)
-
-
 
 ## Installation
 
@@ -51,3 +46,8 @@ ANSWER_COORDS = {                               # Coords of answer buttons (cent
 ```
 
 If the bot gives errors/incorrectly finds the equation line, change `threshold` parameter in 77 line of `bot.py`
+
+
+## Demo
+
+![Example](https://raw.githubusercontent.com/Roqvie/OpenCVGameBot/master/demo/demo.gif)
