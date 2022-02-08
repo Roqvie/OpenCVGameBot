@@ -1,8 +1,8 @@
 
-# OpenCV Bot For '1+2=3' game
+# OpenCV Bot
 
 Simple bot that solves quations in Telegram game named '1+2' in @gamee Telegram bot.
-
+https://t.me/gamee
 
 ## Demo
 
