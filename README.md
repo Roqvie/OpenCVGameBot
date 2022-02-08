@@ -1,7 +1,7 @@
 
 # OpenCV Bot
 
-Simple bot that solves quations in Telegram game named '1+2' in @gamee Telegram bot.
+Simple bot that solves equations in Telegram game named '1+2' in @gamee Telegram bot.
 https://t.me/gamee
 
 ## Demo
